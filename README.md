@@ -19,3 +19,5 @@ To stop the script, press the ESC button on your keyboard
 ## Help
 You can find help in the #help channel on the discord:
 https://discord.gg/kuv9M9zy8M
+```
+[Made by @Mirgarr on Github.](https://github.com/mirgarr)
