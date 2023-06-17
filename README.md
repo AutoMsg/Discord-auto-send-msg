@@ -13,7 +13,7 @@ If you do not have Git, you may also press the Download button (GitHub) and unzi
 ## Usage
 Navigate inside of the repo to the script, and run it with Visual Studio Code. This requires Python and Visual Studio Code to be installed.
 The full tutorial is in #Tutorial channel on the discord:
-![Discord Server](https://discord.gg/kuv9M9zy8M)
+[Discord Server](https://discord.gg/kuv9M9zy8M)
 To stop the script, press the ESC button on your keyboard
 ```
 ## Help
