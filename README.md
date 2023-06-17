@@ -7,13 +7,14 @@ A crude PC-ONLY script letting users repeatedly send a message in a Discord chan
 ## Installation
 Open the command line and clone the repo. This will require Git to be installed.
 ```
-% git clone https://github.com/nonrice/discord-auto-message
+% git clone https://github.com/AutoMsg/Discord-auto-send-msg
 ```
 If you do not have Git, you may also press the Download button (GitHub) and unzip the code.
 ## Usage
-Tutorial in #Tutorial channel on the discord:
+Navigate inside of the repo to the script, and run it with Visual Studio Code. This requires Python and Visual Studio Code to be installed.
+The full tutorial is in #Tutorial channel on the discord:
 ![link](https://discord.gg/kuv9M9zy8M)
-To stop the script, press ESC button on your keyboard
+To stop the script, press the ESC button on your keyboard
 ```
 ## Help
 You can find help in the #help channel on the discord:
