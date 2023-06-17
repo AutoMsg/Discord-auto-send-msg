@@ -1,5 +1,7 @@
 # Discord auto-send message is
 A crude PC-ONLY script letting users repeatedly send a message in a Discord channel, complete with variable random sleep times to appear more humanly. Makes use of Python's built-in HTTP module.
+
+
 ![image](https://github.com/AutoMsg/Discord-auto-send-msg/assets/136905906/003aab24-ea4f-45fb-9275-2edddc769a87)
 
 ## Installation
